@@ -17,11 +17,10 @@ I'm Joel Olivera aka <a href="https://github.com/Onededios" target="_blank">Oned
 <img src="https://github-readme-stats.vercel.app/api?username=Onededios&show_icons=true&theme=yeblu" alt="Onededios"/>
 </h2>
 
-----------------------------------------------------------------
 <h2 align="center">
-<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book.png" width="40">
-    <span>BIO</span>
-<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book.png" width="40">
+<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book.png" width="40" style="vertical-align:middle">
+    <span><ins>BIO</ins></span>
+<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book.png" width="40" style="vertical-align:middle">
 </h2>
 <table style="text-align:center;" >
     <tr>
