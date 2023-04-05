@@ -6,7 +6,7 @@
 <h1 align="center">Привет | Hola | Hi | Hallo</h1>
 
 <h2 align="center">
-I'm Joel Olivera aka <a href="https://github.com/Onededios" target="_blank">Onededios</a>, an IT student interested in informatics
+I'm Joel Olivera aka <a href="https://github.com/Onededios" target="_blank">Onededios</a>, an IT student interested in informatics and IOT
 <p href="https://www.linkedin.com/in/joel-olivera-organvidez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Joel Olivera-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></p>
 </h2>
 <p align="center">
@@ -15,7 +15,7 @@ I'm Joel Olivera aka <a href="https://github.com/Onededios" target="_blank">Oned
 <a href="https://github.com/Onededios?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Onededios?color=4C1&logo=github"></a>
 <a href="https://github.com/Onededios/Onededios" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Onededios/Onededios?label=Profile%20update&style=fflat-square"></a>
     <p align="center">
-        <img src="http://www.100pies.net/Gifs/Webmasters/Banners/Banner-14.gif" width="600">
+        <img src="http://www.100pies.net/Gifs/Webmasters/Banners/Banner-14.gif" width="700" >
     </p>
 </p>
 
