@@ -14,47 +14,35 @@ I'm Joel Olivera aka <a href="https://github.com/Onededios" target="_blank">Oned
 <br/>
 <a href="https://www.linkedin.com/in/joel-olivera-organvidez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Joel Olivera-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Onededios&show_icons=true&theme=yeblu" alt="Onededios"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Onededios&show_icons=true&theme=yeblu" alt="Onededios"/>
 </h2>
 
 ----------------------------------------------------------------
+<h2 align="center">
+<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book.png" width="40">
+    <ins>BIO</ins>
+<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book.png" width="40">
+</h2>
 <table style="text-align:center;" >
-    <tr>
-        <td colspan="4">
-            <h2>
-                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book.png" width="40">
-                    <ins>BIO</ins>
-                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book.png" width="40">
-            </h2>
-        </td>
-    </tr>
     <tr>
         <td> 
             <h3>
-                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/potted-plant.png" width="20">
-                    <ins>Currently studying</ins>
-                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/potted-plant.png" width="20">
+                <ins>Currently studying</ins>
             </h3>
         </td>
         <td>
             <h3>
-                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/star.png" width="25">
-                    <ins>Graded in</ins>
-                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/star.png" width="25">
+                <ins>Graded in</ins>
             </h3>
         </td>
         <td>
             <h3>
-                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/language.png" width="25">
-                    <ins>Languages</ins>
-                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/language.png" width="25">
+                <ins>Languages</ins>
             </h3>
         </td>
         <td>
             <h3>
-                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/learning.png" width="25">
-                    <ins>Also Learning</ins>
-                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/learning.png" width="25">
+                <ins>Also Learning</ins>
             </h3>
         </td>    </tr>
     <tr>
