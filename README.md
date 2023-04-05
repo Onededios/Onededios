@@ -1,21 +1,29 @@
-<h1 align="center"> 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>
-Hey! Nice to see you 
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>
+<!-- Resources -->
+<!-- https://shields.io/ -->
+<!-- https://iconos8.es/icons/set/undefined -->
+<!-- End Of Resources -->
 
+<h1 align="center">Привет | Hola | Hi | Hallo</h1>
+
+<h2 align="center">
+I'm Joel Olivera aka <a href="https://github.com/Onededios" target="_blank">Onededios</a>, an IT student interested in informatics
+<p href="https://www.linkedin.com/in/joel-olivera-organvidez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Joel Olivera-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></p>
+</h2>
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=Onededios" alt="Onededios"/><a href="https://github.com/Onededios/Onededios/pulse" alt="Activity">
 <img src="https://img.shields.io/github/commit-activity/m/Onededios/Onededios"/></a>
 <a href="https://github.com/Onededios?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Onededios?color=4C1&logo=github"></a>
 <a href="https://github.com/Onededios/Onededios" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Onededios/Onededios?label=Profile%20update&style=fflat-square"></a>
-</h1>
+    <p align="center">
+        <img src="http://www.100pies.net/Gifs/Webmasters/Banners/Banner-14.gif" width="600">
+    </p>
+</p>
 
-<h2 align="center">
-I'm Joel Olivera aka <a href="https://github.com/Onededios" target="_blank">Onededios</a>, an IT student interested in informatics
-<br/>
-<a href="https://www.linkedin.com/in/joel-olivera-organvidez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Joel Olivera-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-<br/>
+<!-- <img src="https://imgs.search.brave.com/eKCADgpgskW4dP55TmPFUNApbTdxa2D-1hxLW42G1dA/rs:fit:500:370:1/g:ce/aHR0cHM6Ly9pLmlt/Z3VyLmNvbS9hVWhD/OEdWLmdpZg.gif"> -->
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Onededios&show_icons=true&theme=yeblu" alt="Onededios"/>
-</h2>
+</p>
 
 <h2 align="center">
 <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book.png" width="40" style="vertical-align:middle">
