@@ -10,7 +10,7 @@ Hey! Nice to see you
 </h1>
 
 <h2 align="center">
-I'm Joel Olivera aka <a href="https://github.com/Onededios" target="_blank">Onededios</a>, an IT student interested in developing applications and IOT devices
+I'm Joel Olivera aka <a href="https://github.com/Onededios" target="_blank">Onededios</a>, an IT student interested in in all related with informatics
 <br/>
 <a href="https://www.linkedin.com/in/joel-olivera-organvidez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Joel Olivera-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 <br/>
