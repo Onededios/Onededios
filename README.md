@@ -1,18 +1,103 @@
-### Hi there, I'm Joel Olivera aka [Onededios](https://github.com/Onededios)
+<h1 align="center"> 
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>
+Hey! Nice to see you 
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="36"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onededios&show_icons=true&theme=yeblu)
+<img src="https://komarev.com/ghpvc/?username=Onededios" alt="Onededios"/><a href="https://github.com/Onededios/Onededios/pulse" alt="Activity">
+<img src="https://img.shields.io/github/commit-activity/m/Onededios/Onededios"/></a>
+<a href="https://github.com/Onededios?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Onededios?color=4C1&logo=github"></a>
+<a href="https://github.com/Onededios/Onededios" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Onededios/Onededios?label=Profile%20update&style=fflat-square"></a>
+----------------------------------------------------------------
+</h1>
+<h2 align="center">
+I'm Joel Olivera aka <a href="https://github.com/Onededios" target="_blank">Onededios</a>, an IT student interested in developing applications and IOT devices
+<br/>
+<a href="https://www.linkedin.com/in/joel-olivera-organvidez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Joel Olivera-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+<br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Onededios&show_icons=true&theme=yeblu" alt="Onededios"/>
+</h2>
 
-## I'm an IT student interested in developing applications and IOT devices
-
-### 🌱 Currently studying 🌱
-- <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/laptop-settings.png" width="20">**Cross-platform application developing**<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/laptop-settings.png" width="20">
-
-### 🌟 Graded in 🌟
-- <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/futurama-bender.png" width="20">**Automation and Robotics**<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/futurama-bender.png" width="20">
-- <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/network.png" width="20">**Microcomputer systems and networks**<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/network.png" width="20">
-
-### Contact with me
-[<img src="https://img.icons8.com/nolan/64/linkedin.png" width="50">](https://www.linkedin.com/in/joel-olivera-organvidez/)
+----------------------------------------------------------------
+<table style="text-align:center;" >
+    <tr>
+        <td colspan="4">
+            <h2>
+                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book.png" width="40">
+                    <ins>BIO</ins>
+                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book.png" width="40">
+            </h2>
+        </td>
+    </tr>
+    <tr>
+        <td> 
+            <h3>
+                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/potted-plant.png" width="20">
+                    <ins>Currently studying</ins>
+                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/potted-plant.png" width="20">
+            </h3>
+        </td>
+        <td>
+            <h3>
+                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/star.png" width="25">
+                    <ins>Graded in</ins>
+                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/star.png" width="25">
+            </h3>
+        </td>
+        <td>
+            <h3>
+                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/language.png" width="25">
+                    <ins>Languages</ins>
+                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/language.png" width="25">
+            </h3>
+        </td>
+        <td>
+            <h3>
+                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/learning.png" width="25">
+                    <ins>Also Learning</ins>
+                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/learning.png" width="25">
+            </h3>
+        </td>    </tr>
+    <tr>
+        <tr>
+            <td>
+                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/laptop-settings.png" width="20">
+                    Cross-platform Application Development
+                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/laptop-settings.png" width="20">
+            </td>
+            <td>
+                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/futurama-bender.png" width="20">
+                Automation and Robotics
+                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/futurama-bender.png" width="20">
+            </td>
+            <td>
+                English ★★☆ <br/> (B1 Cambridge)
+            </td>
+            <td>
+                IOT Devices & Automation
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/private2.png" width="20">
+                    Secure Application Development
+                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/private2.png" width="20">
+            </td>
+            <td>
+                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/network.png" width="20">
+                    Microcomputer systems and networks
+                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/network.png" width="20">
+            </td>
+            <td>Spanish ★★★ <br/> (Mother Language)</td>
+            <td>R Programming</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>Catalan ★★★ <br/> (Mother Language)</td>
+            <td>Statistics</td>
+        </tr>
+    </tr>
+</table>
 
 ### WakaTime Charts
 | Operating Systems | Programming Languages |
@@ -76,3 +161,4 @@
 [<img src="https://img.icons8.com/color/48/null/microsoft-office-2019.png" width="50">](link)
 [<img src="https://img.icons8.com/nolan/64/google-drive.png" width="50">](link)
 [<img src="https://img.icons8.com/nolan/64/gimp.png" width="50">](link)
+-->
