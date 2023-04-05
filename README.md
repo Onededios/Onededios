@@ -24,9 +24,9 @@ I'm Joel Olivera aka <a href="https://github.com/Onededios" target="_blank">Oned
 </h2>
 
 <table>
-    <tr>
+    <tr style="vertical-align:middle">
         <td align="center"><h3><ins>Currently studying</ins></h3></td>
-        <td style="vertical-align:middle"><h3><ins>Graded in</ins></h3></td>
+        <td><h3><ins>Graded in</ins></h3></td>
         <td><h3><ins>Languages</ins></h3></td>
         <td><h3><ins>Also Learning</ins></h3></td>    
     </tr>
