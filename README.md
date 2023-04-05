@@ -22,50 +22,24 @@ I'm Joel Olivera aka <a href="https://github.com/Onededios" target="_blank">Oned
     <span><ins>BIO</ins></span>
 <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book.png" width="40" style="vertical-align:middle">
 </h2>
-<table style="text-align:center;" >
-    <tr>
-        <td> 
-            <h3>
-                <ins>Currently studying</ins>
-            </h3>
-        </td>
-        <td>
-            <h3>
-                <ins>Graded in</ins>
-            </h3>
-        </td>
-        <td>
-            <h3>
-                <ins>Languages</ins>
-            </h3>
-        </td>
-        <td>
-            <h3>
-                <ins>Also Learning</ins>
-            </h3>
-        </td>    </tr>
+
+<table>
+    <tr style="vertical-align:middle">
+        <td><h3><ins>Currently studying</ins></h3></td>
+        <td><h3><ins>Graded in</ins></h3></td>
+        <td><h3><ins>Languages</ins></h3></td>
+        <td><h3><ins>Also Learning</ins></h3></td>    
+    </tr>
     <tr>
         <tr>
-            <td>
-                Cross-platform Application Development
-            </td>
-            <td>
-                Automation and Robotics
-            </td>
-            <td>
-                English ★★☆ <br/> (B1 Cambridge)
-            </td>
-            <td>
-                IOT Devices & Automation
-            </td>
+            <td>Cross-platform Application Development</td>
+            <td>Automation and Robotics</td>
+            <td>English ★★☆ <br/> (B1 Cambridge)</td>
+            <td>IOT Devices & Automation</td>
         </tr>
         <tr>
-            <td>
-                Secure Application Development
-            </td>
-            <td>
-                Microcomputer systems and networks
-            </td>
+            <td>Secure Application Development</td>
+            <td>Microcomputer systems and networks</td>
             <td>Spanish ★★★ <br/> (Mother Language)</td>
             <td>R Programming</td>
         </tr>
