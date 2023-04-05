@@ -7,8 +7,8 @@ Hey! Nice to see you
 <img src="https://img.shields.io/github/commit-activity/m/Onededios/Onededios"/></a>
 <a href="https://github.com/Onededios?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/Onededios?color=4C1&logo=github"></a>
 <a href="https://github.com/Onededios/Onededios" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/Onededios/Onededios?label=Profile%20update&style=fflat-square"></a>
-----------------------------------------------------------------
 </h1>
+
 <h2 align="center">
 I'm Joel Olivera aka <a href="https://github.com/Onededios" target="_blank">Onededios</a>, an IT student interested in developing applications and IOT devices
 <br/>
@@ -20,7 +20,7 @@ I'm Joel Olivera aka <a href="https://github.com/Onededios" target="_blank">Oned
 ----------------------------------------------------------------
 <h2 align="center">
 <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book.png" width="40">
-    <ins>BIO</ins>
+    <span>BIO</span>
 <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book.png" width="40">
 </h2>
 <table style="text-align:center;" >
@@ -48,14 +48,10 @@ I'm Joel Olivera aka <a href="https://github.com/Onededios" target="_blank">Oned
     <tr>
         <tr>
             <td>
-                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/laptop-settings.png" width="20">
-                    Cross-platform Application Development
-                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/laptop-settings.png" width="20">
+                Cross-platform Application Development
             </td>
             <td>
-                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/futurama-bender.png" width="20">
                 Automation and Robotics
-                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/futurama-bender.png" width="20">
             </td>
             <td>
                 English ★★☆ <br/> (B1 Cambridge)
@@ -66,14 +62,10 @@ I'm Joel Olivera aka <a href="https://github.com/Onededios" target="_blank">Oned
         </tr>
         <tr>
             <td>
-                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/private2.png" width="20">
-                    Secure Application Development
-                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/private2.png" width="20">
+                Secure Application Development
             </td>
             <td>
-                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/network.png" width="20">
-                    Microcomputer systems and networks
-                <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/network.png" width="20">
+                Microcomputer systems and networks
             </td>
             <td>Spanish ★★★ <br/> (Mother Language)</td>
             <td>R Programming</td>
