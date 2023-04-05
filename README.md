@@ -1,16 +1,20 @@
-### Hi there, I'm Joel Olivera aka [Onededios](https://github.com/Onededios) 👋
+### Hi there, I'm Joel Olivera aka [Onededios](https://github.com/Onededios)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onededios&show_icons=true&theme=yeblu)
 
-## I'm an IT student interested in developing applications and IOT devices:
-- 🌱 Currently studying 🌱 Cross-platform application developing 💻
-- 🌟 Graded in 🌟 Automation and Robotics 🤖
-- 🌟 Graded in 🌟 Microcomputer systems and networks 🖥
+## I'm an IT student interested in developing applications and IOT devices
 
-### Contact with me:
+### 🌱 Currently studying 🌱
+- <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/laptop-settings.png" width="20">**Cross-platform application developing**<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/laptop-settings.png" width="20">
+
+### 🌟 Graded in 🌟
+- <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/futurama-bender.png" width="20">**Automation and Robotics**<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/futurama-bender.png" width="20">
+- <img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/network.png" width="20">**Microcomputer systems and networks**<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/network.png" width="20">
+
+### Contact with me
 [<img src="https://img.icons8.com/nolan/64/linkedin.png" width="50">](https://www.linkedin.com/in/joel-olivera-organvidez/)
 
-### WakaTime Charts:
+### WakaTime Charts
 | Operating Systems | Programming Languages |
 | -------- | ------- |
 | <img src="https://wakatime.com/share/@Onededios/af3e6290-b6d5-41ec-ac7b-26badca936c3.svg" width="500"> | <img src="https://wakatime.com/share/@Onededios/a18436d3-9347-4309-a342-3e5f3fef689c.svg" width="500"> |
@@ -25,7 +29,7 @@
 [<img src="https://imgs.search.brave.com/1qP014C-OOh5TsasdNl24XAAsGMA1q3UgA2bNtNwIUU/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/ZnJlZWJpZXN1cHBs/eS5jb20vbG9nb3Mv/bGFyZ2UvMngvanNv/bi1sb2dvLXBuZy10/cmFuc3BhcmVudC5w/bmc" width="50">](link)
 [<img src="https://imgs.search.brave.com/A5bpgzXvQD-GQTQHt85HwC9SOYkh-Vi5H1zBLWjy0Ew/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4u/aWNvbi1pY29ucy5j/b20vaWNvbnMyLzIx/MDcvUE5HLzUxMi9m/aWxlX3R5cGVfbGln/aHRfeWFtbF9pY29u/XzEzMDQyMS5wbmc" width="50">](link)
 [<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/php.png" width="50">](link)
-[](link)
+[<img src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/markdown.png" width="50">](link)
 [](link)
 [](link)
 [](link)
@@ -35,7 +39,7 @@
 [](link)
 [](link)
 
-#### Tools:
+#### Tools
 
 ##### Informatics 
 [<img src="https://img.icons8.com/nolan/64/gitlab.png" width="50">](link)
