@@ -105,15 +105,19 @@
 
 # Hola · Hi · Hallo - I'm Joel Olivera, a code in love developer
 
-> ![ghfollowers] > ![pudate] > ![pviews]
+![ghfollowers]
+![pudate]
+![pviews]
 
 ![stats]
 
 ## About me
 
-- QA Automation Engineer at **Vueling Airlines**
-- Eager to **collaborate** with other content creators & contribute to **open‑source**
-- Passionate about **Artificial Intelligence**, **software development** & **IoT**
+> QA Automation Engineer at **Vueling Airlines**
+
+> Eager to **collaborate** with other content creators & contribute to **open‑source**
+
+> Passionate about **Artificial Intelligence**, **software development** & **IoT**
 
 ## Reach me
 
