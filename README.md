@@ -13,11 +13,6 @@
 [unity]: https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white
 [hackerrank]: https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white
 
-[//]: <> 'Languages URLs'
-
-[toplangs]: https://wakatime.com/share/@Onededios/1239f1a1-81a4-4331-ab79-9a8e869481c8.svg
-[editors]: https://wakatime.com/share/@Onededios/8b88d7ef-b992-4cc4-aa73-f689c050de95.svg
-
 [//]: <> 'Hobbies URLs'
 
 # Hola · Hi · Hallo - I'm Joel Olivera, a code in love developer
@@ -48,8 +43,6 @@
 ### Languages
 
 > The languages listed below don’t reflect my skill level; they’re simply the ones in which I have the most code across my GitHub repositories.
-
-![toplangs]
 
 <table>
 	<thead>
@@ -237,7 +230,3 @@
     </tbody>
 
 </table>
-
-### Preferred Code Editors/IDEs
-
-![editors]
